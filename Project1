@@ -1,0 +1,6 @@
+{
+int a;
+int b;
+int c=a+b;
+Sysout("print c");
+}
